@@ -3,6 +3,8 @@ Drag &amp; Drop Windows Applications that converts documents, PDFs, images, spre
 
 Conversions run as chains when there's no direct converter. For example, `pdf → docx → md` or `md → html → pdf`. The app picks the best chain for you and shows it before you convert, but you can convert to whatever extension you want.
 
+<img alt="Screen Recording 2026-11-02 201007" src="https://github.com/user-attachments/assets/509af6bd-6f30-4be9-a342-94d09363a35f" />
+
 ## What it converts
 
 | Category | Formats |
