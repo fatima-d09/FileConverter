@@ -66,7 +66,7 @@ def make_with_powershell(lnk: Path) -> None:
 
 def main() -> int:
     if not TARGET.exists():
-        print("Run run.bat once first (the app isn't set up yet).")
+        print("Run run.bat once first (the app isn't set up yet!).")
         return 1
     ok = True
     for folder in folders():
