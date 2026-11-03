@@ -1,8 +1,8 @@
 """
 Command-line version.
 
-  python cli.py report.pdf --to docx
-  python cli.py *.png --to webp --out converted
+  python cli.py report.pdf --to .docx
+  python cli.py *.png --to .webp --out converted
   python cli.py --list            (show every supported conversion)
   python cli.py notes.md --route pdf   (show the steps it would take)
 """
