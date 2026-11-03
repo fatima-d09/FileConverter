@@ -1,7 +1,7 @@
 # FileConverter 🗂️
-Drag &amp; Drop Windows Applications that converts documents, PDFs, images, spreadsheets, audio and video into different formats
+Drag &amp; Drop Windows App that converts documents, PDFs, images, spreadsheets, audio and video into different formats
 
-Conversions run as chains when there's no direct converter. For example, `pdf → docx → md` or `md → html → pdf`. The app picks the best chain for you and shows it before you convert, but you can convert to whatever extension you want.
+Conversions run as chains when there's no direct converter. For example, `pdf → docx → md` or `md → html → pdf`. The app picks the best chain for you and shows it before you convert. However, you can convert your file to whatever extension you want&nbsp;&nbsp;&nbsp;   (e.g. .txt >> .html).
 
 <img alt="Screen Recording 2026-11-02 201007" src="https://github.com/user-attachments/assets/509af6bd-6f30-4be9-a342-94d09363a35f" />
 
