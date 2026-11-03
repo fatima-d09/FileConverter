@@ -2,7 +2,7 @@
 Creates "File Converter" shortcuts on the Desktop and in the Start menu,
 with the app's own icon. The shortcut carries the same AppUserModelID the
 app uses, so pinning it to the taskbar groups correctly with the open window
-(instead of showing the Python logo).
+(instead of just showing the Python logo).
 """
 from __future__ import annotations
 
