@@ -1,0 +1,21 @@
+# GUI
+PySide6>=6.6
+
+# Documents (pandoc is bundled inside pypandoc_binary — nothing else to install)
+pypandoc_binary>=1.13
+python-docx>=1.1
+beautifulsoup4>=4.12
+lxml>=5.0
+reportlab>=4.0
+
+# PDF
+pypdf>=4.0
+pypdfium2>=4.20
+pdf2docx>=0.5.8
+
+# Images, spreadsheets
+Pillow>=10.0
+openpyxl>=3.1
+
+# Audio / video (ships a ready-made ffmpeg.exe)
+imageio-ffmpeg>=0.5
